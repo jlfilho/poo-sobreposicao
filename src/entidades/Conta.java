@@ -1,6 +1,6 @@
  package entidades;
 
-public class Conta {
+public abstract class Conta {
 	private Integer numero;
 	private String cliente;
 	protected Double saldo;
